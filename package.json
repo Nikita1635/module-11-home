@@ -1,0 +1,20 @@
+{
+  "name": "modul-11_task2",
+  "version": "1.0.0",
+  "description": "Jest intro",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "jest",
+    "task2"
+  ],
+  "author": "Eduard <omarowscky.e@yandex.ru>",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.0.3"
+  }
+}
